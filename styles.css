@@ -1,0 +1,38 @@
+body {
+  background-image:url("back.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+   padding: 2px;
+}
+
+h1{ 
+  text-align: center;
+  padding: 0px 20px 60px 40px;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size:30px;
+  color: aliceblue;
+} 
+ p {
+  text-align:right;
+  text-align-last:start;
+  font-weight: bold;
+  padding: 0px 800px 0px 117px;
+  font-size:40px;
+  color:tomato;
+ }
+ .navbar-nav{
+  position:absolute;
+    right: 10px;
+    top: 10px;
+ }
+ .container-fluid {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:60px;
+}
+ .nav-item{
+ padding-left:10px;
+ font-size: 1.5rem;
+}
+
